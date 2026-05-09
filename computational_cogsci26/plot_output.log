@@ -1,0 +1,20 @@
+
+=== Alternative 1: Standard Error bands ===
+Processing world3_size_12 for reward_diff (SE bands)...
+Saved -> /home/jausterw/work/roombas/computational_cogsci26/alt1_se_bands_reward_diff_world3_size_12.png
+Processing world3_size_12 for q_diff_diff (SE bands)...
+Saved -> /home/jausterw/work/roombas/computational_cogsci26/alt1_se_bands_q_diff_diff_world3_size_12.png
+
+=== Alternative 2: Endpoint error bars ===
+Processing world3_size_12 for reward_diff (endpoint bars)...
+Saved -> /home/jausterw/work/roombas/computational_cogsci26/alt2_endpoint_bars_reward_diff_world3_size_12.png
+Processing world3_size_12 for q_diff_diff (endpoint bars)...
+Saved -> /home/jausterw/work/roombas/computational_cogsci26/alt2_endpoint_bars_q_diff_diff_world3_size_12.png
+
+=== Alternative 3: Outline bounds ===
+Processing world3_size_12 for reward_diff (outline bounds)...
+Saved -> /home/jausterw/work/roombas/computational_cogsci26/alt3_outline_bounds_reward_diff_world3_size_12.png
+Processing world3_size_12 for q_diff_diff (outline bounds)...
+Saved -> /home/jausterw/work/roombas/computational_cogsci26/alt3_outline_bounds_q_diff_diff_world3_size_12.png
+
+All alternatives generated!

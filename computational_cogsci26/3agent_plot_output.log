@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/jausterw/work/roombas/computational_cogsci26/3agent_plot_creation.py", line 253, in <module>
+    create_1x4_patch_plots(current_folder)
+  File "/home/jausterw/work/roombas/computational_cogsci26/3agent_plot_creation.py", line 187, in create_1x4_patch_plots
+    world_size = int(world_folder.name.split('_')[-1])
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '3agent'

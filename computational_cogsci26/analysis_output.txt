@@ -1,0 +1,201 @@
+Loading 2-agent data |----------------------------------------| 1/100 Loading 2-agent data |----------------------------------------| 2/100 Loading 2-agent data |█---------------------------------------| 3/100 Loading 2-agent data |█---------------------------------------| 4/100 Loading 2-agent data |██--------------------------------------| 5/100 Loading 2-agent data |██--------------------------------------| 6/100 Loading 2-agent data |██--------------------------------------| 7/100 Loading 2-agent data |███-------------------------------------| 8/100 Loading 2-agent data |███-------------------------------------| 9/100 Loading 2-agent data |████------------------------------------| 10/100 Loading 2-agent data |████------------------------------------| 11/100 Loading 2-agent data |████------------------------------------| 12/100 Loading 2-agent data |█████-----------------------------------| 13/100 Loading 2-agent data |█████-----------------------------------| 14/100 Loading 2-agent data |██████----------------------------------| 15/100 Loading 2-agent data |██████----------------------------------| 16/100 Loading 2-agent data |██████----------------------------------| 17/100 Loading 2-agent data |███████---------------------------------| 18/100 Loading 2-agent data |███████---------------------------------| 19/100 Loading 2-agent data |████████--------------------------------| 20/100 Loading 2-agent data |████████--------------------------------| 21/100 Loading 2-agent data |████████--------------------------------| 22/100 Loading 2-agent data |█████████-------------------------------| 23/100 Loading 2-agent data |█████████-------------------------------| 24/100 Loading 2-agent data |██████████------------------------------| 25/100 Loading 2-agent data |██████████------------------------------| 26/100 Loading 2-agent data |██████████------------------------------| 27/100 Loading 2-agent data |███████████-----------------------------| 28/100 Loading 2-agent data |███████████-----------------------------| 29/100 Loading 2-agent data |████████████----------------------------| 30/100 Loading 2-agent data |████████████----------------------------| 31/100 Loading 2-agent data |████████████----------------------------| 32/100 Loading 2-agent data |█████████████---------------------------| 33/100 Loading 2-agent data |█████████████---------------------------| 34/100 Loading 2-agent data |██████████████--------------------------| 35/100 Loading 2-agent data |██████████████--------------------------| 36/100 Loading 2-agent data |██████████████--------------------------| 37/100 Loading 2-agent data |███████████████-------------------------| 38/100 Loading 2-agent data |███████████████-------------------------| 39/100 Loading 2-agent data |████████████████------------------------| 40/100 Loading 2-agent data |████████████████------------------------| 41/100 Loading 2-agent data |████████████████------------------------| 42/100 Loading 2-agent data |█████████████████-----------------------| 43/100 Loading 2-agent data |█████████████████-----------------------| 44/100 Loading 2-agent data |██████████████████----------------------| 45/100 Loading 2-agent data |██████████████████----------------------| 46/100 Loading 2-agent data |██████████████████----------------------| 47/100 Loading 2-agent data |███████████████████---------------------| 48/100 Loading 2-agent data |███████████████████---------------------| 49/100 Loading 2-agent data |████████████████████--------------------| 50/100 Loading 2-agent data |████████████████████--------------------| 51/100 Loading 2-agent data |████████████████████--------------------| 52/100 Loading 2-agent data |█████████████████████-------------------| 53/100 Loading 2-agent data |█████████████████████-------------------| 54/100 Loading 2-agent data |██████████████████████------------------| 55/100 Loading 2-agent data |██████████████████████------------------| 56/100 Loading 2-agent data |██████████████████████------------------| 57/100 Loading 2-agent data |███████████████████████-----------------| 58/100 Loading 2-agent data |███████████████████████-----------------| 59/100 Loading 2-agent data |████████████████████████----------------| 60/100 Loading 2-agent data |████████████████████████----------------| 61/100 Loading 2-agent data |████████████████████████----------------| 62/100 Loading 2-agent data |█████████████████████████---------------| 63/100 Loading 2-agent data |█████████████████████████---------------| 64/100 Loading 2-agent data |██████████████████████████--------------| 65/100 Loading 2-agent data |██████████████████████████--------------| 66/100 Loading 2-agent data |██████████████████████████--------------| 67/100 Loading 2-agent data |███████████████████████████-------------| 68/100 Loading 2-agent data |███████████████████████████-------------| 69/100 Loading 2-agent data |████████████████████████████------------| 70/100 Loading 2-agent data |████████████████████████████------------| 71/100 Loading 2-agent data |████████████████████████████------------| 72/100 Loading 2-agent data |█████████████████████████████-----------| 73/100 Loading 2-agent data |█████████████████████████████-----------| 74/100 Loading 2-agent data |██████████████████████████████----------| 75/100 Loading 2-agent data |██████████████████████████████----------| 76/100 Loading 2-agent data |██████████████████████████████----------| 77/100 Loading 2-agent data |███████████████████████████████---------| 78/100 Loading 2-agent data |███████████████████████████████---------| 79/100 Loading 2-agent data |████████████████████████████████--------| 80/100 Loading 2-agent data |████████████████████████████████--------| 81/100 Loading 2-agent data |████████████████████████████████--------| 82/100 Loading 2-agent data |█████████████████████████████████-------| 83/100 Loading 2-agent data |█████████████████████████████████-------| 84/100 Loading 2-agent data |██████████████████████████████████------| 85/100 Loading 2-agent data |██████████████████████████████████------| 86/100 Loading 2-agent data |██████████████████████████████████------| 87/100 Loading 2-agent data |███████████████████████████████████-----| 88/100 Loading 2-agent data |███████████████████████████████████-----| 89/100 Loading 2-agent data |████████████████████████████████████----| 90/100 Loading 2-agent data |████████████████████████████████████----| 91/100 Loading 2-agent data |████████████████████████████████████----| 92/100 Loading 2-agent data |█████████████████████████████████████---| 93/100 Loading 2-agent data |█████████████████████████████████████---| 94/100 Loading 2-agent data |██████████████████████████████████████--| 95/100 Loading 2-agent data |██████████████████████████████████████--| 96/100 Loading 2-agent data |██████████████████████████████████████--| 97/100 Loading 2-agent data |███████████████████████████████████████-| 98/100 Loading 2-agent data |███████████████████████████████████████-| 99/100 Loading 2-agent data |████████████████████████████████████████| 100/100 
+Loading 3-agent data |----------------------------------------| 1/100 Loading 3-agent data |----------------------------------------| 2/100 Loading 3-agent data |█---------------------------------------| 3/100 Loading 3-agent data |█---------------------------------------| 4/100 Loading 3-agent data |██--------------------------------------| 5/100 Loading 3-agent data |██--------------------------------------| 6/100 Loading 3-agent data |██--------------------------------------| 7/100 Loading 3-agent data |███-------------------------------------| 8/100 Loading 3-agent data |███-------------------------------------| 9/100 Loading 3-agent data |████------------------------------------| 10/100 Loading 3-agent data |████------------------------------------| 11/100 Loading 3-agent data |████------------------------------------| 12/100 Loading 3-agent data |█████-----------------------------------| 13/100 Loading 3-agent data |█████-----------------------------------| 14/100 Loading 3-agent data |██████----------------------------------| 15/100 Loading 3-agent data |██████----------------------------------| 16/100 Loading 3-agent data |██████----------------------------------| 17/100 Loading 3-agent data |███████---------------------------------| 18/100 Loading 3-agent data |███████---------------------------------| 19/100 Loading 3-agent data |████████--------------------------------| 20/100 Loading 3-agent data |████████--------------------------------| 21/100 Loading 3-agent data |████████--------------------------------| 22/100 Loading 3-agent data |█████████-------------------------------| 23/100 Loading 3-agent data |█████████-------------------------------| 24/100 Loading 3-agent data |██████████------------------------------| 25/100 Loading 3-agent data |██████████------------------------------| 26/100 Loading 3-agent data |██████████------------------------------| 27/100 Loading 3-agent data |███████████-----------------------------| 28/100 Loading 3-agent data |███████████-----------------------------| 29/100 Loading 3-agent data |████████████----------------------------| 30/100 Loading 3-agent data |████████████----------------------------| 31/100 Loading 3-agent data |████████████----------------------------| 32/100 Loading 3-agent data |█████████████---------------------------| 33/100 Loading 3-agent data |█████████████---------------------------| 34/100 Loading 3-agent data |██████████████--------------------------| 35/100 Loading 3-agent data |██████████████--------------------------| 36/100 Loading 3-agent data |██████████████--------------------------| 37/100 Loading 3-agent data |███████████████-------------------------| 38/100 Loading 3-agent data |███████████████-------------------------| 39/100 Loading 3-agent data |████████████████------------------------| 40/100 Loading 3-agent data |████████████████------------------------| 41/100 Loading 3-agent data |████████████████------------------------| 42/100 Loading 3-agent data |█████████████████-----------------------| 43/100 Loading 3-agent data |█████████████████-----------------------| 44/100 Loading 3-agent data |██████████████████----------------------| 45/100 Loading 3-agent data |██████████████████----------------------| 46/100 Loading 3-agent data |██████████████████----------------------| 47/100 Loading 3-agent data |███████████████████---------------------| 48/100 Loading 3-agent data |███████████████████---------------------| 49/100 Loading 3-agent data |████████████████████--------------------| 50/100 Loading 3-agent data |████████████████████--------------------| 51/100 Loading 3-agent data |████████████████████--------------------| 52/100 Loading 3-agent data |█████████████████████-------------------| 53/100 Loading 3-agent data |█████████████████████-------------------| 54/100 Loading 3-agent data |██████████████████████------------------| 55/100 Loading 3-agent data |██████████████████████------------------| 56/100 Loading 3-agent data |██████████████████████------------------| 57/100 Loading 3-agent data |███████████████████████-----------------| 58/100 Loading 3-agent data |███████████████████████-----------------| 59/100 Loading 3-agent data |████████████████████████----------------| 60/100 Loading 3-agent data |████████████████████████----------------| 61/100 Loading 3-agent data |████████████████████████----------------| 62/100 Loading 3-agent data |█████████████████████████---------------| 63/100 Loading 3-agent data |█████████████████████████---------------| 64/100 Loading 3-agent data |██████████████████████████--------------| 65/100 Loading 3-agent data |██████████████████████████--------------| 66/100 Loading 3-agent data |██████████████████████████--------------| 67/100 Loading 3-agent data |███████████████████████████-------------| 68/100 Loading 3-agent data |███████████████████████████-------------| 69/100 Loading 3-agent data |████████████████████████████------------| 70/100 Loading 3-agent data |████████████████████████████------------| 71/100 Loading 3-agent data |████████████████████████████------------| 72/100 Loading 3-agent data |█████████████████████████████-----------| 73/100 Loading 3-agent data |█████████████████████████████-----------| 74/100 Loading 3-agent data |██████████████████████████████----------| 75/100 Loading 3-agent data |██████████████████████████████----------| 76/100 Loading 3-agent data |██████████████████████████████----------| 77/100 Loading 3-agent data |███████████████████████████████---------| 78/100 Loading 3-agent data |███████████████████████████████---------| 79/100 Loading 3-agent data |████████████████████████████████--------| 80/100 Loading 3-agent data |████████████████████████████████--------| 81/100 Loading 3-agent data |████████████████████████████████--------| 82/100 Loading 3-agent data |█████████████████████████████████-------| 83/100 Loading 3-agent data |█████████████████████████████████-------| 84/100 Loading 3-agent data |██████████████████████████████████------| 85/100 Loading 3-agent data |██████████████████████████████████------| 86/100 Loading 3-agent data |██████████████████████████████████------| 87/100 Loading 3-agent data |███████████████████████████████████-----| 88/100 Loading 3-agent data |███████████████████████████████████-----| 89/100 Loading 3-agent data |████████████████████████████████████----| 90/100 Loading 3-agent data |████████████████████████████████████----| 91/100 Loading 3-agent data |████████████████████████████████████----| 92/100 Loading 3-agent data |█████████████████████████████████████---| 93/100 Loading 3-agent data |█████████████████████████████████████---| 94/100 Loading 3-agent data |██████████████████████████████████████--| 95/100 Loading 3-agent data |██████████████████████████████████████--| 96/100 Loading 3-agent data |██████████████████████████████████████--| 97/100 Loading 3-agent data |███████████████████████████████████████-| 98/100 Loading 3-agent data |███████████████████████████████████████-| 99/100 Loading 3-agent data |████████████████████████████████████████| 100/100 
+
+################################################################################
+# STATISTICAL ANALYSIS FOR COGSCI 2026 PAPER
+# Multi-Agent Coordination Under Pedagogical Intervention
+################################################################################
+
+Loading two-agent data...
+Loaded 5000 observations
+
+Loading three-agent data...
+Loaded 5000 observations
+
+================================================================================
+TWO-AGENT EXPERIMENT STATISTICAL ANALYSES
+================================================================================
+
+Total observations (intervention conditions): 4800
+Unique conditions: 96
+
+--------------------------------------------------------------------------------
+1. FACTORIAL ANOVA: Policy Divergence ~ Teaching Style × Interpretation Type × Rate
+--------------------------------------------------------------------------------
+                                                                     sum_sq      df           F         PR(>F)
+C(teaching_style)                                              7.797982e+06     3.0  418.962713  3.253081e-241
+C(interpretation_type)                                         2.802737e+05     5.0    9.034970   1.468895e-08
+C(intervention_rate)                                           1.652706e+05     3.0    8.879507   7.258363e-06
+C(teaching_style):C(interpretation_type)                       2.662988e+05    15.0    2.861491   1.699131e-04
+C(teaching_style):C(intervention_rate)                         3.493386e+05     9.0    6.256313   7.800906e-09
+C(interpretation_type):C(intervention_rate)                    4.402799e+04    15.0    0.473099   9.547882e-01
+C(teaching_style):C(interpretation_type):C(intervention_rate)  2.132276e+05    45.0    0.763740   8.744645e-01
+Residual                                                       2.918454e+07  4704.0         NaN            NaN
+
+--------------------------------------------------------------------------------
+2. FACTORIAL ANOVA: System Equilibrium ~ Teaching Style × Interpretation Type × Rate
+--------------------------------------------------------------------------------
+                                                                     sum_sq      df           F         PR(>F)
+C(teaching_style)                                              2.040365e+09     3.0  267.019900  4.909685e-160
+C(interpretation_type)                                         1.989424e+07     5.0    1.562120   1.672208e-01
+C(intervention_rate)                                           6.272669e+08     3.0   82.089577   9.217752e-52
+C(teaching_style):C(interpretation_type)                       1.141084e+08    15.0    2.986644   8.696647e-05
+C(teaching_style):C(intervention_rate)                         3.489105e+08     9.0   15.220485   1.043391e-24
+C(interpretation_type):C(intervention_rate)                    2.088881e+07    15.0    0.546738   9.152906e-01
+C(teaching_style):C(interpretation_type):C(intervention_rate)  1.394269e+08    45.0    1.216441   1.530044e-01
+Residual                                                       1.198148e+10  4704.0         NaN            NaN
+
+--------------------------------------------------------------------------------
+3. CLAIM: 'Undoing' style is most robust for policy divergence
+--------------------------------------------------------------------------------
+
+Pairwise comparisons (Undoing vs others) for Policy Divergence:
+Comparison                                             t-stat      p-value    Cohen's d          Result
+---------------------------------------------------------------------------------------------------
+Undoing vs Correcting                                6.051       0.0000        0.247             ***
+Undoing vs Exploration-encouraging Correcting       -9.955       0.0000       -0.406             ***
+Undoing vs Restart                                 -23.940       0.0000       -0.977             ***
+
+Mean Policy Divergence by Teaching Style:
+                                          mean         std  count
+teaching_style                                                   
+Correcting                           61.191921   46.695033   1200
+Exploration-encouraging Correcting  101.108565   75.244509   1200
+Restart                             165.707431  119.911270   1200
+Undoing                              74.027106   56.740426   1200
+
+--------------------------------------------------------------------------------
+4. CLAIM: 'Correcting' requires high intervention rates (≥0.75)
+--------------------------------------------------------------------------------
+
+Comparing Correcting at high (≥0.75) vs low (<0.75) intervention rates:
+  Policy Divergence: t = -6.574, p = 0.0000, Cohen's d = -0.380
+  High rate mean: 52.483 (SD=38.929, n=600)
+  Low rate mean: 69.901 (SD=51.933, n=600)
+
+  System Equilibrium: t = 12.258, p = 0.0000, Cohen's d = 0.708
+  High rate mean: 478.310 (SD=659.830)
+  Low rate mean: 1421.370 (SD=1765.246)
+
+--------------------------------------------------------------------------------
+5. CLAIM: 'Restart' discourages system equilibrium
+--------------------------------------------------------------------------------
+
+Comparing Restart vs all other styles for System Equilibrium:
+  t = 21.975, p = 0.0000, Cohen's d = 0.874
+  Restart mean: 2626.365 (SD=2134.596)
+  Others mean: 1167.435 (SD=1482.834)
+  (Higher System Equilibrium = larger score gap = worse balance)
+
+--------------------------------------------------------------------------------
+6. CLAIM: 'Reset' interpretation performs poorly across teaching styles
+--------------------------------------------------------------------------------
+
+Comparing Reset vs all other interpretation types for Policy Divergence:
+  t = -5.534, p = 0.0000, Cohen's d = -0.191
+  Reset mean: 86.320 (SD=76.830)
+  Others mean: 103.347 (SD=91.378)
+
+Mean Policy Divergence by Interpretation Type:
+                           mean        std  count
+interpretation_type                              
+Disrupt              109.147431  91.987599    800
+Impede               107.783264  96.014125    800
+Interrupt            103.084132  96.310515    800
+Suggestion           100.031979  87.141064    800
+Transition            96.685764  84.455738    800
+Reset                 86.319965  76.830074    800
+
+--------------------------------------------------------------------------------
+7. CLAIM: 'Disrupt' interpretation is incompatible with 'Correcting' style
+--------------------------------------------------------------------------------
+
+Comparing Disrupt+Correcting vs Disrupt+Other styles:
+  t = -13.115, p = 0.0000, Cohen's d = -0.768
+  Disrupt+Correcting mean: 58.873 (SD=45.454)
+  Disrupt+Others mean: 125.906 (SD=97.341)
+
+Mean Policy Divergence for Disrupt by Teaching Style:
+                                          mean         std  count
+teaching_style                                                   
+Correcting                           58.872639   45.454393    200
+Exploration-encouraging Correcting  117.015417   78.220454    200
+Restart                             182.089028  116.350382    200
+Undoing                              78.612639   58.015004    200
+
+================================================================================
+THREE-AGENT EXPERIMENT STATISTICAL ANALYSES
+================================================================================
+
+Total observations (intervention conditions): 4800
+
+--------------------------------------------------------------------------------
+1. FACTORIAL ANOVA: Region Attachment ~ Teaching Style × Interpretation Type × Rate
+--------------------------------------------------------------------------------
+                                                                     sum_sq      df            F         PR(>F)
+C(teaching_style)                                              1.927918e+08     3.0  8517.274810   0.000000e+00
+C(interpretation_type)                                         2.109719e+06     5.0    55.922696   1.204594e-56
+C(intervention_rate)                                           1.030034e+07     3.0   455.054868  1.375619e-259
+C(teaching_style):C(interpretation_type)                       2.511652e+06    15.0    22.192261   1.422241e-59
+C(teaching_style):C(intervention_rate)                         8.840717e+06     9.0   130.190230  1.260109e-219
+C(interpretation_type):C(intervention_rate)                    6.674914e+05    15.0     5.897770   2.584648e-12
+C(teaching_style):C(interpretation_type):C(intervention_rate)  8.845831e+05    45.0     2.605311   3.136838e-08
+Residual                                                       3.549228e+07  4704.0          NaN            NaN
+
+--------------------------------------------------------------------------------
+2. CLAIM: 'Undoing' and 'Correcting' amplify spatial attachment
+--------------------------------------------------------------------------------
+
+Comparing Undoing+Correcting vs other styles:
+  t = 100.365, p = 0.0000, Cohen's d = 2.897
+  Undoing+Correcting mean: 586.574 (SD=138.861)
+  Others mean: 208.224 (SD=121.752)
+
+Mean Region Attachment by Teaching Style:
+                                          mean         std  count
+teaching_style                                                   
+Correcting                          607.911389  126.536178   1200
+Exploration-encouraging Correcting  299.330833  101.781576   1200
+Restart                             117.118056   51.819929   1200
+Undoing                             565.236944  147.167877   1200
+
+--------------------------------------------------------------------------------
+3. CLAIM: Linear strengthening of niche persistence with intervention rate
+--------------------------------------------------------------------------------
+
+Overall linear trend (Rate → Attachment):
+  Pearson r = 0.198, p = 0.0000
+
+Linear trend by Teaching Style:
+Style                                             r      p-value     Significant
+-----------------------------------------------------------------------------
+Undoing                                       0.645       0.0000          Yes***
+Correcting                                    0.483       0.0000          Yes***
+Exploration-encouraging Correcting            0.383       0.0000          Yes***
+Restart                                      -0.244       0.0000          Yes***
+
+--------------------------------------------------------------------------------
+4. CLAIM: 'Restart' is detrimental to spatial coordination
+--------------------------------------------------------------------------------
+
+Comparing Restart vs all other styles:
+  t = -108.509, p = 0.0000, Cohen's d = -2.289
+  Restart mean: 117.118 (SD=51.820)
+  Others mean: 490.826 (SD=186.131)
+
+================================================================================
+SUMMARY OF KEY FINDINGS
+================================================================================
+
+    Two-Agent Experiments:
+    - See detailed ANOVA tables and pairwise comparisons above
+    - Key tests for: Undoing superiority, Correcting rate dependency, 
+      Restart disadvantage, Reset poor performance, Disrupt×Correcting mismatch
+    
+    Three-Agent Experiments:
+    - See detailed ANOVA tables and trend analyses above
+    - Key tests for: Undoing+Correcting advantage, linear rate effect, 
+      Restart detrimental effect
+    
+    Note: * p < .05, ** p < .01, *** p < .001
+    
